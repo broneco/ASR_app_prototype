@@ -1,0 +1,100 @@
+[
+  {
+    "id": "transcript_001",
+    "text": "Na polici je Castrol Magnatec pětilitrový A5 a vedle něj Shell Helix Ultra čtyřlitrový.",
+    "expected_products": [
+      "CASTROL MAGNATEC 5W-30 A5 5 lt",
+      "SHELL HELIX Ultra 5W-40 4 lt"
+    ],
+    "has_competitor_mention": false,
+    "has_placement_issue": false
+  },
+  {
+    "id": "transcript_002",
+    "text": "Tady mají Castrol Magnatec šedesátilitrový C3 kanistr. Je to velký objem pro servisy.",
+    "expected_products": [
+      "CASTROL MAGNATEC 5W-40 C3 60 lt"
+    ],
+    "has_competitor_mention": false,
+    "has_placement_issue": false
+  },
+  {
+    "id": "transcript_003",
+    "text": "Vedle vody je Sheron eMotion ostřikovač čtyřlitrový celoroční. SHERON Autošampon s houbou je částečně schovaný za ostřikovači a není úplně vidět.",
+    "expected_products": [
+      "SHERON Celoroční ostřikovač eMotion -5 °C 4 lt",
+      "SHERON Autošampon s houbou 1 lt"
+    ],
+    "has_competitor_mention": false,
+    "has_placement_issue": true
+  },
+  {
+    "id": "transcript_004",
+    "text": "Konkurence má výraznější obal u letních ostřikovačů. Náš Sheron letní ostřikovač dvoulitrový je méně viditelný.",
+    "expected_products": [
+      "SHERON Letní ostřikovač eMotion 2 lt"
+    ],
+    "has_competitor_mention": true,
+    "has_placement_issue": false
+  },
+  {
+    "id": "transcript_005",
+    "text": "EUROL Syntence LV 0W-20 LL pětilitrový a CASTROL EDGE 0W-20 LL IV čtyřlitrový jsou konkurenčně vedle sebe. Castrol má lepší umístění.",
+    "expected_products": [
+      "EUROL Syntence LV 0W-20 LL 5 lt",
+      "CASTROL EDGE 0W-20 LL IV 4 lt"
+    ],
+    "has_competitor_mention": true,
+    "has_placement_issue": false
+  },
+  {
+    "id": "transcript_006",
+    "text": "Na spodní polici je Mobil Super 3000 pětilitrový a Mobil 1 ESP jednolitrový. Cenovky jsou špatně čitelné a produkty nejsou dobře vidět.",
+    "expected_products": [
+      "MOBIL Super 3000 X1 5W-40 5 lt",
+      "MOBIL 1 ESP 5W-30 1 lt"
+    ],
+    "has_competitor_mention": false,
+    "has_placement_issue": true
+  },
+  {
+    "id": "transcript_007",
+    "text": "Sheron Nano Protect čtyřlitrový a Sheron zimní ostřikovač pětilitrový minus dvacet stupňů jsou na viditelném místě v úrovni očí.",
+    "expected_products": [
+      "SHERON Nano Protect 4 lt",
+      "SHERON Zimní ostřikovač -20 °C 5 lt"
+    ],
+    "has_competitor_mention": false,
+    "has_placement_issue": false
+  },
+  {
+    "id": "transcript_008",
+    "text": "Total Quartz 9000 pětilitrový a Shell Helix HX7 jednolitrový. Konkurence má akci dva plus jeden zdarma, což naše produkty nemají.",
+    "expected_products": [
+      "TOTAL QUARTZ 9000 5W-40 5 lt",
+      "SHELL HELIX HX7 10W-40 1 lt"
+    ],
+    "has_competitor_mention": true,
+    "has_placement_issue": false
+  },
+  {
+    "id": "transcript_009",
+    "text": "Eurol Sportbike jednolitrový je mimo správné místo, měl by být u motorek. Eurol Super Lite pětilitrový je dobře umístěný.",
+    "expected_products": [
+      "EUROL Sportbike 5W-40 1 lt",
+      "EUROL Super Lite 5W-40 5 lt"
+    ],
+    "has_competitor_mention": false,
+    "has_placement_issue": true
+  },
+  {
+    "id": "transcript_010",
+    "text": "Castrol GTX A5 jednolitrový a Castrol Power 1 Ultimate pro motorky čtyřlitrový jsou na správném místě. Vše je v pořádku.",
+    "expected_products": [
+      "CASTROL GTX 5W-30 A5 1 lt",
+      "CASTROL POWER 1 Ultimate 4T 10W-50 4 lt"
+    ],
+    "has_competitor_mention": false,
+    "has_placement_issue": false
+  }
+]

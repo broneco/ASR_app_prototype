@@ -1,0 +1,82 @@
+[
+  {
+    "id": "CASTROL_MAGNATEC_5W30_A5_5L",
+    "name": "CASTROL MAGNATEC 5W-30 A5 5 lt"
+  },
+  {
+    "id": "CASTROL_MAGNATEC_5W40_C3_60L",
+    "name": "CASTROL MAGNATEC 5W-40 C3 60 lt"
+  },
+  {
+    "id": "CASTROL_EDGE_0W20_LL_IV_4L",
+    "name": "CASTROL EDGE 0W-20 LL IV 4 lt"
+  },
+  {
+    "id": "CASTROL_POWER1_ULTIMATE_4T_10W50_4L",
+    "name": "CASTROL POWER 1 Ultimate 4T 10W-50 4 lt"
+  },
+  {
+    "id": "CASTROL_GTX_5W30_A5_1L",
+    "name": "CASTROL GTX 5W-30 A5 1 lt"
+  },
+  {
+    "id": "SHERON_EMOTION_OSTRIKOV_4L",
+    "name": "SHERON Celoroční ostřikovač eMotion -5 °C 4 lt"
+  },
+  {
+    "id": "SHERON_EMOTION_LETNI_OSTRIKOV_2L",
+    "name": "SHERON Letní ostřikovač eMotion 2 lt"
+  },
+  {
+    "id": "SHERON_AUTOŠAMPON_500ML",
+    "name": "SHERON Autošampon 500 ml"
+  },
+  {
+    "id": "SHERON_AUTOŠAMPON_HOUBA_1L",
+    "name": "SHERON Autošampon s houbou 1 lt"
+  },
+  {
+    "id": "SHERON_NANO_PROTECT_4L",
+    "name": "SHERON Nano Protect 4 lt"
+  },
+  {
+    "id": "SHERON_ZIMNI_OSTRIKOV_5L",
+    "name": "SHERON Zimní ostřikovač -20 °C 5 lt"
+  },
+  {
+    "id": "EUROL_SPORTBIKE_5W40_1L",
+    "name": "EUROL Sportbike 5W-40 1 lt"
+  },
+  {
+    "id": "EUROL_SYNTENCE_LV_0W20_LL_5L",
+    "name": "EUROL Syntence LV 0W-20 LL 5 lt"
+  },
+  {
+    "id": "EUROL_SUPER_LITE_5W40_5L",
+    "name": "EUROL Super Lite 5W-40 5 lt"
+  },
+  {
+    "id": "EUROL_TURBOSYN_10W40_4L",
+    "name": "EUROL Turbosyn 10W-40 4 lt"
+  },
+  {
+    "id": "MOBIL_SUPER_3000_5W40_5L",
+    "name": "MOBIL Super 3000 X1 5W-40 5 lt"
+  },
+  {
+    "id": "MOBIL_1_ESP_5W30_1L",
+    "name": "MOBIL 1 ESP 5W-30 1 lt"
+  },
+  {
+    "id": "SHELL_HELIX_ULTRA_5W40_4L",
+    "name": "SHELL HELIX Ultra 5W-40 4 lt"
+  },
+  {
+    "id": "SHELL_HELIX_HX7_10W40_1L",
+    "name": "SHELL HELIX HX7 10W-40 1 lt"
+  },
+  {
+    "id": "TOTAL_QUARTZ_9000_5W40_5L",
+    "name": "TOTAL QUARTZ 9000 5W-40 5 lt"
+  }
+]
