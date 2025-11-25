@@ -52,4 +52,4 @@ htmlcov/
 .azure/
 
 # Configuration settings
-config.py
+confiq.py
