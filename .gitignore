@@ -50,3 +50,6 @@ htmlcov/
 
 # Azure
 .azure/
+
+# Configuration settings
+config.py
